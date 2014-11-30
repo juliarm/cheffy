@@ -21,12 +21,13 @@ h1 {
 #menu ul{
 	margin: 0px;
 	padding: 0px;
+	float: right;
 }
 
 #menu ul li{
 	list-style-type:none;
 	min-width:150px;
-	float: right;
+	float: left;
 	text-align: center;
 }
 
